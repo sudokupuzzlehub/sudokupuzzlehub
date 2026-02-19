@@ -199,3 +199,36 @@ This repository contains documentation and descriptive content related to Sudoku
 All platform functionality is available at the official website:
 
 [https://sudokupuzzlehub.com/](https://sudokupuzzlehub.com/)
+
+
+------
+
+## Related Repositories
+
+Main platform:
+https://github.com/sudokupuzzlehub/sudokupuzzlehub
+
+Sudoku solver:
+https://github.com/sudokupuzzlehub/sudoku-solver
+
+Printable Sudoku:
+https://github.com/sudokupuzzlehub/printable-sudoku
+
+Mini Sudoku:
+https://github.com/sudokupuzzlehub/mini-sudoku
+
+Strands puzzle:
+https://github.com/sudokupuzzlehub/strands-puzzle
+
+Cryptogram puzzle:
+https://github.com/sudokupuzzlehub/cryptogram-puzzle
+
+Sudoku blog:
+https://github.com/sudokupuzzlehub/sudoku-blog
+
+
+Access the official blog here:
+
+[Sudoku Blog](https://sudokupuzzlehub.com/blog/)
+
+
